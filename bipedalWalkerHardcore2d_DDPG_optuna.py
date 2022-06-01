@@ -47,7 +47,7 @@ noise_std = 0.1
 log_dir = "./models/vDDPG-bipedalWalkerHardcore2d-model"
 best_model_dir = "./models/vDDPG-bipedalWalkerHardcore2d-model/best"
 study_name = "vDDPG_bipedWalkerHardcore2d"
-storage = "mysql://root:12345678@localhost/vddpg_bipedwalkerHardcore2d"
+storage = "mysql://yoggi:12345678@84.252.139.66/vddpg_bipedwalkerHardcore2d"
 video_prefix = "bipedWalkerHardcore_vDDPG"
 
 reward_threshold = 300
